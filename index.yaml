@@ -12,4 +12,16 @@ entries:
     urls:
     - https://github.com/tesigroup/vela-addons/releases/download/percona-server-mongdb-operator-0.0.0/percona-server-mongdb-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2023-11-17T14:51:04.378808639Z"
+  psmdb-operator:
+  - apiVersion: v2
+    created: "2023-11-17T21:10:30.735029835Z"
+    description: The Percona Operator for MongoDB automates the creation, modification,
+      or deletion of items in your Percona Server for MongoDB environment.
+    digest: f16bbedc2cb085448714a7fa1d35368c565d83e0f70348007f9997e53d3d9fe9
+    home: https://github.com/tesigroup/vela-addons
+    name: psmdb-operator
+    type: application
+    urls:
+    - https://github.com/tesigroup/vela-addons/releases/download/psmdb-operator-0.0.0/psmdb-operator-0.0.0.tgz
+    version: 0.0.0
+generated: "2023-11-17T21:10:30.7350382Z"
