@@ -1,0 +1,9 @@
+dependencies:
+  - name: fluxcd
+description: Percona Operator for MongoDB allows users to deploy and manage Percona Server for MongoDB Clusters on Kubernetes.
+icon: ""
+invisible: false
+name: percona-server-mongodb-operator
+tags:
+  - database
+version: 1.15.0
