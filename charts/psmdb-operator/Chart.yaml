@@ -1,5 +1,5 @@
 apiVersion: "v2"
-name: percona-server-mongdb-operator
+name: psmdb-operator
 version: 0.0.0
 description: The Percona Operator for MongoDB automates the creation, modification, or deletion of items in your Percona Server for MongoDB environment.
 type: application
