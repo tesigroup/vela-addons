@@ -1,5 +1,5 @@
 output: {
-	name: "addon-percona-server-mongodb-operator"
+	name: "psmdb-operator"
 	type: "helm"
 	properties: {
 		repoType:        "helm"
