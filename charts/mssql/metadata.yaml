@@ -1,0 +1,9 @@
+dependencies:
+  - name: fluxcd
+description: Microsoft SQL Server is a proprietary relational database management system developed by Microsoft.
+icon: ""
+invisible: false
+name: mssql
+tags:
+  - database
+version: 0.0.0
