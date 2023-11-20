@@ -1,5 +1,17 @@
 apiVersion: v1
 entries:
+  mssql:
+  - apiVersion: v2
+    created: "2023-11-20T20:41:26.847603992Z"
+    description: Microsoft SQL Server is a proprietary relational database management
+      system developed by Microsoft.
+    digest: 201ccf4d5f8d0b483e9d3c2966de5569c10f2ec21c165a6f4f13d1d8aa33e654
+    home: https://github.com/tesigroup/vela-addons
+    name: mssql
+    type: application
+    urls:
+    - https://github.com/tesigroup/vela-addons/releases/download/mssql-0.0.0/mssql-0.0.0.tgz
+    version: 0.0.0
   percona-server-mongdb-operator:
   - apiVersion: v2
     created: "2023-11-17T14:51:04.378799652Z"
@@ -25,6 +37,17 @@ entries:
     - https://github.com/tesigroup/vela-addons/releases/download/psmdb-operator-1.15.0/psmdb-operator-1.15.0.tgz
     version: 1.15.0
   - apiVersion: v2
+    created: "2023-11-20T20:41:27.036080073Z"
+    description: Percona Operator for MongoDB allows users to deploy and manage Percona
+      Server for MongoDB Clusters on Kubernetes.
+    digest: af11f8ed011de48b8176e943641b809f299d751c4fbfbb565d05ab63fe0ff711
+    home: https://github.com/tesigroup/vela-addons
+    name: psmdb-operator
+    type: application
+    urls:
+    - https://github.com/tesigroup/vela-addons/releases/download/psmdb-operator-0.0.1/psmdb-operator-0.0.1.tgz
+    version: 0.0.1
+  - apiVersion: v2
     created: "2023-11-17T21:10:30.735029835Z"
     description: The Percona Operator for MongoDB automates the creation, modification,
       or deletion of items in your Percona Server for MongoDB environment.
@@ -35,4 +58,4 @@ entries:
     urls:
     - https://github.com/tesigroup/vela-addons/releases/download/psmdb-operator-0.0.0/psmdb-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2023-11-17T21:31:23.006644442Z"
+generated: "2023-11-20T20:41:27.036125809Z"
