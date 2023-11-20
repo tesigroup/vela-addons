@@ -1,6 +1,8 @@
-apiVersion: "v2"
+apiVersion: v2
+description: >-
+  Percona Operator for MongoDB allows users to deploy and manage Percona Server
+  for MongoDB Clusters on Kubernetes.
+home: 'https://github.com/tesigroup/vela-addons'
 name: psmdb-operator
-version: 0.0.0
-description: The Percona Operator for MongoDB automates the creation, modification, or deletion of items in your Percona Server for MongoDB environment.
 type: application
-home: https://github.com/tesigroup/vela-addons
+version: 0.0.1
