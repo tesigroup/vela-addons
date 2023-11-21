@@ -1,8 +1,9 @@
 apiVersion: v2
 description: >-
-  Microsoft SQL Server is a proprietary relational database management system
-  developed by Microsoft.
+  EventStoreDB is an open-source state-transition database, designed for
+  businesses that are ready to harness the true power of event-driven
+  architecture.
 home: 'https://github.com/tesigroup/vela-addons'
 name: eventstore
 type: application
-version: 0.0.0
+version: 0.0.1
