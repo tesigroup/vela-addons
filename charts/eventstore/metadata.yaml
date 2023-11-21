@@ -1,0 +1,10 @@
+dependencies:
+  - name: cert-manager
+  - name: fluxcd
+description: EventStoreDB is an open-source state-transition database, designed for businesses that are ready to harness the true power of event-driven architecture.
+icon: ""
+invisible: false
+name: eventstore
+tags:
+  - database
+version: 0.0.0
