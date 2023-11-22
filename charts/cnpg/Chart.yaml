@@ -1,0 +1,9 @@
+apiVersion: v2
+description: >-
+  CloudNativePG is a Kubernetes operator that covers the full lifecycle of a
+  PostgreSQL database cluster with a primary/standby architecture, using native
+  streaming replication
+home: 'https://github.com/tesigroup/vela-addons'
+name: cnpg
+type: application
+version: 0.0.0

@@ -1,0 +1,9 @@
+dependencies:
+- name: fluxcd
+description: CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+icon: ""
+invisible: false
+name: cnpg
+tags:
+- database
+version: 0.0.0
