@@ -50,17 +50,6 @@ entries:
     version: 0.0.0
   psmdb-operator:
   - apiVersion: v2
-    created: "2023-11-17T21:31:23.006630116Z"
-    description: The Percona Operator for MongoDB automates the creation, modification,
-      or deletion of items in your Percona Server for MongoDB environment.
-    digest: 23e013401a5e37d6bc1f3753cc12122deca1e9c66ef22162f68eb9b8842734fc
-    home: https://github.com/tesigroup/vela-addons
-    name: psmdb-operator
-    type: application
-    urls:
-    - https://github.com/tesigroup/vela-addons/releases/download/psmdb-operator-1.15.0/psmdb-operator-1.15.0.tgz
-    version: 1.15.0
-  - apiVersion: v2
     created: "2023-11-20T20:41:27.036080073Z"
     description: Percona Operator for MongoDB allows users to deploy and manage Percona
       Server for MongoDB Clusters on Kubernetes.
