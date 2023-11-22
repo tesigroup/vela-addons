@@ -5,4 +5,4 @@ description: >-
 home: 'https://github.com/tesigroup/vela-addons'
 name: psmdb-operator
 type: application
-version: 0.0.1
+version: 0.0.2
