@@ -2,6 +2,18 @@ apiVersion: v1
 entries:
   cnpg:
   - apiVersion: v2
+    created: "2023-11-22T08:38:32.986067475Z"
+    description: CloudNativePG is a Kubernetes operator that covers the full lifecycle
+      of a PostgreSQL database cluster with a primary/standby architecture, using
+      native streaming replication
+    digest: dfe95598953a4d01420f2aa89662603354002d5c2e3d7021c2539adb01a19c5c
+    home: https://github.com/tesigroup/vela-addons
+    name: cnpg
+    type: application
+    urls:
+    - https://github.com/tesigroup/vela-addons/releases/download/cnpg-0.0.1/cnpg-0.0.1.tgz
+    version: 0.0.1
+  - apiVersion: v2
     created: "2023-11-22T08:09:24.073510157Z"
     description: CloudNativePG is a Kubernetes operator that covers the full lifecycle
       of a PostgreSQL database cluster with a primary/standby architecture, using
@@ -14,6 +26,17 @@ entries:
     - https://github.com/tesigroup/vela-addons/releases/download/cnpg-0.0.0/cnpg-0.0.0.tgz
     version: 0.0.0
   eventstore:
+  - apiVersion: v2
+    created: "2023-11-22T08:38:33.167377632Z"
+    description: EventStoreDB is an open-source state-transition database, designed
+      for businesses that are ready to harness the true power of event-driven architecture.
+    digest: 8934e503cff51510d02c706a201ae59db4b4cf955b4887a944823c78de830de9
+    home: https://github.com/tesigroup/vela-addons
+    name: eventstore
+    type: application
+    urls:
+    - https://github.com/tesigroup/vela-addons/releases/download/eventstore-0.0.2/eventstore-0.0.2.tgz
+    version: 0.0.2
   - apiVersion: v2
     created: "2023-11-21T10:17:39.485226144Z"
     description: EventStoreDB is an open-source state-transition database, designed
@@ -38,6 +61,17 @@ entries:
     version: 0.0.0
   mssql:
   - apiVersion: v2
+    created: "2023-11-22T08:38:33.323061631Z"
+    description: Microsoft SQL Server is a proprietary relational database management
+      system developed by Microsoft.
+    digest: 825baff29c6bceaa034fede9d634e3174c6f0008bc9d4cfb222f59378e0c34f2
+    home: https://github.com/tesigroup/vela-addons
+    name: mssql
+    type: application
+    urls:
+    - https://github.com/tesigroup/vela-addons/releases/download/mssql-0.0.1/mssql-0.0.1.tgz
+    version: 0.0.1
+  - apiVersion: v2
     created: "2023-11-20T20:41:26.847603992Z"
     description: Microsoft SQL Server is a proprietary relational database management
       system developed by Microsoft.
@@ -49,6 +83,17 @@ entries:
     - https://github.com/tesigroup/vela-addons/releases/download/mssql-0.0.0/mssql-0.0.0.tgz
     version: 0.0.0
   psmdb-operator:
+  - apiVersion: v2
+    created: "2023-11-22T08:38:33.48389687Z"
+    description: Percona Operator for MongoDB allows users to deploy and manage Percona
+      Server for MongoDB Clusters on Kubernetes.
+    digest: d520340e3a8c3b4baf313a0d2667289e7997da5a1693bd28ecd18875da4ce247
+    home: https://github.com/tesigroup/vela-addons
+    name: psmdb-operator
+    type: application
+    urls:
+    - https://github.com/tesigroup/vela-addons/releases/download/psmdb-operator-0.0.2/psmdb-operator-0.0.2.tgz
+    version: 0.0.2
   - apiVersion: v2
     created: "2023-11-20T20:41:27.036080073Z"
     description: Percona Operator for MongoDB allows users to deploy and manage Percona
@@ -71,4 +116,4 @@ entries:
     urls:
     - https://github.com/tesigroup/vela-addons/releases/download/psmdb-operator-0.0.0/psmdb-operator-0.0.0.tgz
     version: 0.0.0
-generated: "2023-11-22T08:09:24.073531787Z"
+generated: "2023-11-22T08:38:33.483927818Z"
