@@ -48,18 +48,6 @@ entries:
     urls:
     - https://github.com/tesigroup/vela-addons/releases/download/mssql-0.0.0/mssql-0.0.0.tgz
     version: 0.0.0
-  percona-server-mongdb-operator:
-  - apiVersion: v2
-    created: "2023-11-17T14:51:04.378799652Z"
-    description: The Percona Operator for MongoDB automates the creation, modification,
-      or deletion of items in your Percona Server for MongoDB environment.
-    digest: 7a49d8f0b4f9a8d9a920f2b8aa9c806ad7fd3b238cacb212cad6f81ccfe61eaa
-    home: https://github.com/tesigroup/vela-addons
-    name: percona-server-mongdb-operator
-    type: application
-    urls:
-    - https://github.com/tesigroup/vela-addons/releases/download/percona-server-mongdb-operator-0.0.0/percona-server-mongdb-operator-0.0.0.tgz
-    version: 0.0.0
   psmdb-operator:
   - apiVersion: v2
     created: "2023-11-17T21:31:23.006630116Z"
